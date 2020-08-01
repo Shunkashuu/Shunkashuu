@@ -1,6 +1,6 @@
 # Hi, I'm Marion !
 
-![Cover](https://github.com/Shunkashuu/Shunkashuu/blob/master/skyline.jpg)
+![Cover](https://github.com/Shunkashuu/Shunkashuu/blob/master/city.jpg)
 
 ## I'm currently working on...
 
