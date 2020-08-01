@@ -1,6 +1,6 @@
 # Hi, I'm Marion !
 
-![Cover](https://github.com/Shunkashuu/Shunkashuu/blob/master/img/cover.jpg)
+![Cover](https://github.com/Shunkashuu/Shunkashuu/blob/master/cover.jpg)
 
 ## I'm currently working on...
 
